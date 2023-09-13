@@ -62,9 +62,3 @@ body {
 }
 
 
-
-@media (min-width: 1100px) and (min-height: 300px) {
-  .notion-page-content-has-aside {
-    width: calc((100vw + var(--notion-max-width)) / 2 - 12px);
-  }
-}
