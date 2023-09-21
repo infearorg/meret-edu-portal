@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Meret',
+  name: 'Meret Help Desk',
   domain: 'edu.meret.tech',
   author: 'Meret Team',
 
