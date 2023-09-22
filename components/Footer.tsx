@@ -141,7 +141,7 @@ export const FooterImpl: React.FC = () => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <img src="/404.png" alt="Powered by Vercel" />
+        <img src="/vercel.svg" alt="Powered by Vercel" />
       </a>
 
 
