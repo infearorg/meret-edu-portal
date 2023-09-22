@@ -135,6 +135,16 @@ export const FooterImpl: React.FC = () => {
           </a>
         )}
       </div>
+
+      <a
+        href={`https://vercel.com/?utm_source=infearOrg&utm_campaign=oss`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="/404.png" alt="Powered by Vercel" />
+      </a>
+
+
     </footer>
   )
 }
