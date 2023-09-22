@@ -140,6 +140,7 @@ export const FooterImpl: React.FC = () => {
         href={`https://vercel.com/?utm_source=infearOrg&utm_campaign=oss`}
         target="_blank"
         rel="noopener noreferrer"
+        className={'vercel'}
       >
         <img src="/vercel.svg" alt="Powered by Vercel" />
       </a>
